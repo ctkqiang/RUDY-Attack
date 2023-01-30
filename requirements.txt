@@ -1,0 +1,4 @@
+Markups==4.0.0
+types-all==1.0.0
+HTMLParser==0.0.2
+requesocks==0.10.8
